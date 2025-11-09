@@ -57,13 +57,15 @@
   "C_Cpp_Runner.useLinkTimeOptimization": false,
   "C_Cpp_Runner.msvcSecureNoWarnings": false,
   "files.associations": {
-<<<<<<< HEAD
     "iostream": "cpp",
     "ostream": "cpp"
   },
   "C_Cpp.errorSquiggles": "disabled"
-=======
+
     "iostream": "cpp"
   }
->>>>>>> 64a235f3bb406a274c1dc4498f53e54af0f7c79b
+64a235f3bb406a274c1dc4498f53e54af0f7c79b
+    "iostream": "cpp"
+  }
+64a235f3bb406a274c1dc4498f53e54af0f7c79b
 }
