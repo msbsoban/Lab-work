@@ -10,7 +10,11 @@ int main() {
             cout << " ";
         }
         for (int k = 1; k <= 2 * i - 1; k++) {
+<<<<<<< HEAD
             cout << "* ";
+=======
+            cout << "*";
+>>>>>>> 64a235f3bb406a274c1dc4498f53e54af0f7c79b
         }
         cout << endl;
     }
