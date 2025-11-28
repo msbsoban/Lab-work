@@ -5,7 +5,7 @@ int main(){
     cout << "Enter Rows and columns: ";
     cin >> size;
     for (int i = 1; i < size; i++){
-        for (int j = 1; j < size; j++){
+        for (int j = 1; j < size*2; j++){
             if ((i+j) % 2 == 0){
             cout << "* ";
             } else {
